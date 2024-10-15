@@ -1,7 +1,7 @@
 ## 💫 Sobre Mi:
 📚 Estudiante de Ingeniería de Sistemas.<br> 👨🏻‍💻 Programador Junior.<br> 💡 Aprendiendo mas sobre JavaScript.<br> 💻 Actualmente hago uso del ecosistema .NET y del lenguaje C#. <br>
 
-
+ 
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/CesarCerda281200) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cesarcerda_2812/) 
 
