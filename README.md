@@ -1,5 +1,5 @@
 ## 💫 Sobre Mi:
-📚 Estudiante de Ingeniería de Sistemas.<br>👨🏻‍💻 Programador Junior.<br>💡 Aprendiendo mas sobre JavaScript.<br>💻 Actualmente hago uso del ecosistema .NET y el lenguaje C#.<br>💬 Pregúntame acerca de JAVA, PHP y C#<br>
+📚 Estudiante de Ingeniería de Sistemas.<br>👨🏻‍💻 Programador Junior.<br>💡 Aprendiendo mas sobre JavaScript y ReactJS.<br>💻 Actualmente hago uso de C# y PHP.<br>💬 Pregúntame acerca de JAVA, PHP y C#<br>
 
 
 ## 🌐 Redes Sociales:
