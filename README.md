@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-📚 Estudiante de Ingeniería de Sistemas en proceso de culminación.<br>👨🏻‍💻 Programador Junior.<br>💡 Aprendiendo mas sobre JavaScript y Angular.<br>💻 Actualmente hago uso de C# y PHP.<br>💬 Pregúntame sobre POO
+📚 Estudiante de Ingeniería de Sistemas en proceso de culminación.<br>👨🏻‍💻 Programador Junior.<br>💡 Aprendiendo mas sobre JavaScript y Angular.<br>💻 Actualmente hago uso de C# y PHP.<br>💬 Pregúntame sobre POO 
 
 
 ## 🌐 Redes Sociales:
