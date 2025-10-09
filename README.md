@@ -1,4 +1,4 @@
-# 💫 Sobre:
+# 💫 Sobre Mi:
 🧑‍🎓Ingeniero de Sistemas.<br>👨🏻‍💻 Programador Junior.<br>💡 Aprendiendo mas sobre JavaScript y Node.js.<br>💻 Actualmente hago uso de C# y PHP.<br>💬 Pregúntame sobre POO .
 
 
